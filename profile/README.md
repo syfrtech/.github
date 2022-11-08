@@ -1,4 +1,4 @@
-# Syfr
+# ◉ Syfr
 
 End-to-end encryption for web forms.
 

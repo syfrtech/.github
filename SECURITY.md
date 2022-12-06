@@ -4,4 +4,4 @@ Security is our top priority.
 
 ## Reporting a Vulnerability
 
-Visit https://syfr.app to report a vulnerability.
+Please [privately report suspected vulnerabilities here](https://github.com/syfrtech/.github/security/advisories)
